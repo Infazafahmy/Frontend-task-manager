@@ -51,7 +51,6 @@ The Frontend Dashboard is a Laravel 10 web application that consumes APIs to man
 6. Run migrations (if needed for local tables): `php artisan migrate`
 7. Start Laravel server on port 8001: `php artisan serve --port=8001`
 8. Compile frontend assets: `npm run dev`
-9. Access the dashboard at `http://127.0.0.1:8001/dashboard-frontend`
 
 ---
 
@@ -83,3 +82,4 @@ All endpoints are accessed using **Bearer token** from Sanctum authentication:
 ## Author
 Developed by: M.F.F. Infaza  
 Date: 19th September 2025
+
